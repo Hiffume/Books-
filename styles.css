@@ -1,0 +1,20 @@
+body{
+  margin:0;
+  padding-left: 15px;
+  padding-top: 5px;
+  background-color:#d9e4dd;
+}
+hr{
+  border-style: dotted none none;
+  height: 0px;
+  width: 5%;
+  border-color: #132743;
+  border-width: 5px;
+}
+h1{
+  color: #555555;
+}
+h3{
+  padding-left: 15px;
+  color: #d7385e;
+}
